@@ -1,0 +1,1 @@
+000000000000037000000000000212yyyyyyz[{"Filename":"packdb/b.txt","allocation":{"bytesize":6,"hashText":"7679321762312271445","startoffset":30}},{"Filename":"packdb/c.txt","allocation":{"bytesize":1,"hashText":"327173387797980296","startoffset":36}}]
